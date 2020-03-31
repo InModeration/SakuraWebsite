@@ -1,0 +1,18 @@
+/* 定义标签样式 */
+	a:link{
+		text-decoration: none;
+		color: #000000;
+	}
+	a:visited{
+		text-decoration: none;
+		color: #000000;
+	}
+	a:hover{
+		text-decoration: none;
+		color: #EBCCCC;
+	}
+	a:active{
+		text-decoration: none;
+		color: #CE8483;
+	}
+		
